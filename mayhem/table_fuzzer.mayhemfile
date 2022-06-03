@@ -1,0 +1,4 @@
+project: PROJECT
+target: table_fuzzer
+cmds:
+- cmd: /out/table_fuzzer
